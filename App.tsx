@@ -164,7 +164,6 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: "#212121",
-    alignItems: "center"
   },
   scrollContent: {
     padding: 20,
